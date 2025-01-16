@@ -16,7 +16,7 @@ int Media = (Nota1 + Nota2 + Nota3) / 3;
 Console.WriteLine("Média:  " + (Nota1 + Nota2 + Nota3) / 3);
 
 if (Media >= 7)
-{
+{   
     Console.WriteLine("Acima da média");
 }
 else

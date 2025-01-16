@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "ex07\\Program.cs",
               "ToolTip": "C:\\Users\\nicolas.lsilva5\\source\\repos\\logica_programacao_tarde_ter_quir\\ex07\\Program.cs*",
               "RelativeToolTip": "ex07\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T16:37:27.631Z",
               "IsPinned": true,
@@ -56,8 +56,7 @@
               "RelativeToolTip": "ex06\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T16:45:55.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T16:45:55.468Z"
             },
             {
               "$type": "Document",
@@ -69,8 +68,7 @@
               "RelativeToolTip": "ex05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T19:49:18.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T19:49:18.86Z"
             },
             {
               "$type": "Document",
@@ -82,8 +80,7 @@
               "RelativeToolTip": "ex04\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T19:15:22.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T19:15:22.491Z"
             }
           ]
         }
