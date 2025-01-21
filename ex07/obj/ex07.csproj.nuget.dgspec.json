@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicolas.lsilva5\\source\\repos\\logica_programacao_tarde_ter_quir\\ex07\\ex07.csproj": {}
+    "C:\\Users\\nicolas.lsilva5\\source\\repos\\lista_01_exercicios\\logica_programacao_trans_tarde_ter_qui\\ex07\\ex07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicolas.lsilva5\\source\\repos\\logica_programacao_tarde_ter_quir\\ex07\\ex07.csproj": {
+    "C:\\Users\\nicolas.lsilva5\\source\\repos\\lista_01_exercicios\\logica_programacao_trans_tarde_ter_qui\\ex07\\ex07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicolas.lsilva5\\source\\repos\\logica_programacao_tarde_ter_quir\\ex07\\ex07.csproj",
+        "projectUniqueName": "C:\\Users\\nicolas.lsilva5\\source\\repos\\lista_01_exercicios\\logica_programacao_trans_tarde_ter_qui\\ex07\\ex07.csproj",
         "projectName": "ex07",
-        "projectPath": "C:\\Users\\nicolas.lsilva5\\source\\repos\\logica_programacao_tarde_ter_quir\\ex07\\ex07.csproj",
+        "projectPath": "C:\\Users\\nicolas.lsilva5\\source\\repos\\lista_01_exercicios\\logica_programacao_trans_tarde_ter_qui\\ex07\\ex07.csproj",
         "packagesPath": "C:\\Users\\nicolas.lsilva5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicolas.lsilva5\\source\\repos\\logica_programacao_tarde_ter_quir\\ex07\\obj\\",
+        "outputPath": "C:\\Users\\nicolas.lsilva5\\source\\repos\\lista_01_exercicios\\logica_programacao_trans_tarde_ter_qui\\ex07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
